@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://avatars3.githubusercontent.com/u/58291503?s=460&u=1369c09639a613b986f265d2ce4f9ecde5a64ae7&v=4
+
+![Alt Text](https://avatars3.githubusercontent.com/u/58291503?s=460&u=1369c09639a613b986f265d2ce4f9ecde5a64ae7&v=4)
+
 <!--
 **Pariola-droid/Pariola-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
