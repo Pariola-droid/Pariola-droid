@@ -30,6 +30,18 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Pariola-droid/Pariola-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
