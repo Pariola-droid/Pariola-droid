@@ -48,7 +48,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pariola-droid&show_icons=true&locale=en&layout=compact" alt="pariola-droid" /></p><br><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pariola-droid&show_icons=true&locale=en" alt="pariola-droid" /></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pariola-droid&show_icons=true&locale=en" alt="pariola-droid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pariola-droid&" alt="pariola-droid" /></p>
 
