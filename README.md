@@ -25,6 +25,7 @@ Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
 
 <br>
 
+<!--
 ## 📌 Pinned Repositories
 
 <br>
@@ -81,6 +82,7 @@ Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
 
 <br>
 <br>
+-->
 
 ## 💼 Skills
 
