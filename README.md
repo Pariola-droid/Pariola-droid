@@ -67,7 +67,7 @@ Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
 
 <br>
 <br>
-
+-->
 ## &#x1f4c8; GitHub Stats
 
 <br>
@@ -82,7 +82,7 @@ Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
 
 <br>
 <br>
--->
+
 
 ## 💼 Skills
 
