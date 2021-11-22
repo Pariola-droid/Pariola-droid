@@ -21,6 +21,8 @@ Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
 - [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
 - [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
 - [10 BEST Custom and Creative Developer Blogs in 2021](https://braydoncoyer.dev/blog/10-best-custom-and-creative-developer-blogs-in-2021/)
+
+https://ik.imagekit.io/9ghb9cknpe/Github_Banner_LHqZFco7w.png?updatedAt=1637583594504
 <!-- BLOG-POST-LIST:END -->
 
 <br>
