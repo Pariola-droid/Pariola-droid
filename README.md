@@ -1,5 +1,3 @@
-<!-- Pariola's GitHub Banner --> <img src="https://ik.imagekit.io/9ghb9cknpe/Copy_of_Copy_of_Copy_of_Copy_of_Untitled_Jf85l-4OY.png?updatedAt=1630229208778" alt="Pariola's GitHub Banner"/>  
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ipariola)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/omopariola-philip/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/ipariola)
@@ -9,68 +7,6 @@ Hey there 👋
 I’m Pariola, a front-end engineer && UI designer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
 
 Want to know more about me? [Check out my portfolio.](https://pariola.dev/)
-
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START --
-- [The Gumball Machine: How To Quickly Identify Unit Test Cases](https://braydoncoyer.dev/blog/the-gumball-machine-how-to-quickly-identify-unit-test-cases/)
-- [How to Use the TailwindCSS Typography Plugin](https://braydoncoyer.dev/blog/how-to-use-the-tailwindcss-typography-plugin/)
-- [Hold Up - What Are JavaScript Generators?](https://braydoncoyer.dev/blog/hold-up-what-are-javascript-generators/)
-- [Technical Interview Preparation and Tips To Consider](https://braydoncoyer.dev/blog/technical-interview-preparation-and-tips-to-consider/)
-- [10 BEST Custom and Creative Developer Blogs in 2021](https://braydoncoyer.dev/blog/10-best-custom-and-creative-developer-blogs-in-2021/)
-
-https://ik.imagekit.io/9ghb9cknpe/Github_Banner_LHqZFco7w.png?updatedAt=1637583594504
-<!-- BLOG-POST-LIST:END -->
-
-<br>
-
-<!--
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/Pariola-droid/pariola">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=pariola&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Pariola-droid/Pariola-Project-Page">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=Pariola-Project-Page&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Pariola-droid/JsCalculator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=JsCalculator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Pariola-droid/PiggyVest-Clone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=PiggyVest-Clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/Pariola-droid/regnify-nextjs">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=regnify-nextjs&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Pariola-droid/dre-s-tech">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=dre-s-tech&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Pariola-droid/Weather-doctor">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pariola-droid&repo=Weather-doctor&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-<br>
-
-<br>
-<br>
--->
-
-
 
 
 ## 💼 Skills
@@ -146,20 +82,3 @@ https://ik.imagekit.io/9ghb9cknpe/Github_Banner_LHqZFco7w.png?updatedAt=16375835
 </a>
 <br>
 <br>
-
-
-## 📣 How about an Office quote before you go?
-
-> I know that patience and loyalty are good, and virtuous traits. But sometimes I just think you need to grow a pair.
->
-> <p>- Angela Martin</p>
-
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
-
-Check back at the top of the hour for a new quote!
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
